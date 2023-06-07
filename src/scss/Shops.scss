@@ -1,0 +1,32 @@
+nav {
+  width: 500px;
+  h2 {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+  }
+
+  border: 3px solid #b4afaf;
+  border-radius: 15px;
+  .nav {
+    li {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      list-style: none;
+      border: 2px solid #000;
+      border-radius: 10px;
+      margin: 20px 50px;
+      width: 300px;
+      height: 75px;
+      font-size: 22px;
+      color: #413d3d;
+      font-weight: bold;
+      cursor: pointer;
+      
+      &.active {
+        background: #b4afaf;
+      }
+    }
+  }
+}

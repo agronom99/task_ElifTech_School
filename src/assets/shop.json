@@ -1,0 +1,82 @@
+[
+  {
+   "id": 0,
+   "imageUrl": "https://cdn.vectorstock.com/i/preview-1x/00/89/burger-icon-hamburgercheeseburger-symbol-vector-23190089.webp",
+   "title": "Big Big Burger",
+   "price": 100,
+   "category": 0,
+   "rating": 1
+  },
+  {
+   "id": 1,
+   "imageUrl": "https://cdn.vectorstock.com/i/preview-1x/00/89/burger-icon-hamburgercheeseburger-symbol-vector-23190089.webp",
+   "title": "Big Big Burger",
+   "price": 100,
+   "category": 0,
+   "rating": 1
+  },
+  {
+   "id": 2,
+   "imageUrl": "https://cdn.vectorstock.com/i/preview-1x/00/89/burger-icon-hamburgercheeseburger-symbol-vector-23190089.webp",
+   "title": "Big Big Burger",
+   "price": 100,
+   "category": 0,
+   "rating": 1
+  },
+  {
+   "id": 3,
+   "imageUrl": "https://cdn.vectorstock.com/i/preview-1x/00/89/burger-icon-hamburgercheeseburger-symbol-vector-23190089.webp",
+   "title": "Big Big Burger",
+   "price": 100,
+   "category": 0,
+   "rating": 1
+  },
+  {
+   "id": 4,
+   "imageUrl": "https://cdn.vectorstock.com/i/preview-1x/00/89/burger-icon-hamburgercheeseburger-symbol-vector-23190089.webp",
+   "title": "Big Big Burger",
+   "price": 100,
+   "category": 0,
+   "rating": 1
+  },
+  {
+   "id": 5,
+   "imageUrl": "https://www.creativefabrica.com/wp-content/uploads/2023/06/01/Watercolor-Fried-Chicken-Sublimation-Graphics-71071832-1-1-580x386.png",
+   "title": "Big Big Fri",
+   "price": 100,
+   "category": 1,
+   "rating": 1
+  },
+  {
+   "id": 6,
+   "imageUrl": "https://www.creativefabrica.com/wp-content/uploads/2023/06/01/Watercolor-Fried-Chicken-Sublimation-Graphics-71071832-1-1-580x386.png",
+   "title": "Big Big Fri",
+   "price": 100,
+   "category": 1,
+   "rating": 1
+  },
+  {
+   "id": 7,
+   "imageUrl": "https://www.creativefabrica.com/wp-content/uploads/2023/06/01/Watercolor-Fried-Chicken-Sublimation-Graphics-71071832-1-1-580x386.png",
+   "title": "Big Big Fri",
+   "price": 100,
+   "category": 1,
+   "rating": 1
+  },
+  {
+   "id": 8,
+   "imageUrl": "https://www.creativefabrica.com/wp-content/uploads/2023/06/01/Watercolor-Fried-Chicken-Sublimation-Graphics-71071832-1-1-580x386.png",
+   "title": "Big Big Fri",
+   "price": 100,
+   "category": 1,
+   "rating": 1
+  },
+  {
+   "id": 9,
+   "imageUrl": "https://www.creativefabrica.com/wp-content/uploads/2023/06/01/Watercolor-Fried-Chicken-Sublimation-Graphics-71071832-1-1-580x386.png",
+   "title": "Big Big Fri",
+   "price": 100,
+   "category": 1,
+   "rating": 1
+  }
+ ]

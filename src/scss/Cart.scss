@@ -1,0 +1,43 @@
+main {
+    // flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    border: 3px solid #b4afaf;
+    border-radius: 15px;
+    margin-left: 20px;
+    padding-left: 20px;
+    overflow-y: scroll;
+    .cart {
+        display: flex;
+        flex-direction: column;
+      border: 3px solid #b4afaf;
+      border-radius: 15px;
+      width: 500px;
+      height: 350px;
+      margin: 25px 100px;
+      img{
+        margin: 20px auto;
+        width: 400px;
+        height: 200px;
+      }
+      b{
+        font-size: 24px;
+        color: #b4afaf;
+        margin-left: 20px;
+      }
+      a{
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        width: 200px;
+        height: 40px;
+        border: 3px solid #b4afaf;
+        border-radius: 15px;
+        margin: 20px 20px 0 225px;
+        font-size: 20px;
+        font-weight: 700;
+        color: #b4afaf;
+       text-decoration: none; 
+      }
+    }
+  }
