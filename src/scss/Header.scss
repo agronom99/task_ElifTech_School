@@ -3,6 +3,9 @@
     display: flex;
     margin-left: 250px;
     list-style: none;
+    @media (max-width: 600px) {
+              margin: 20px;
+      }
   }
   li {
     font-size: 24px;

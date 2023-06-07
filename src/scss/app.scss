@@ -5,8 +5,6 @@
 @import "./input";
 @import "./basket";
 
-
-
 * {
   margin: 0;
   padding: 0;
@@ -15,11 +13,19 @@
 .content {
   margin: 20px;
 
-  
   .card {
     display: flex;
     height: 750px;
+    @media (max-width: 1000px) {
+      flex-direction: column;
+    }
+    @media (max-width: 500px) {
+      nav {
+        max-width: 300px;
+        li{
+          width: 150px;
+        }
+      }
+    }
   }
-  
- 
 }

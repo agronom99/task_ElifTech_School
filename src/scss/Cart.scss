@@ -7,6 +7,8 @@ main {
     margin-left: 20px;
     padding-left: 20px;
     overflow-y: scroll;
+    min-height: 750px;
+    min-width: 450px;
     .cart {
         display: flex;
         flex-direction: column;
@@ -15,6 +17,7 @@ main {
       width: 500px;
       height: 350px;
       margin: 25px 100px;
+      
       img{
         margin: 20px auto;
         width: 400px;
