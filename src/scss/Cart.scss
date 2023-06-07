@@ -1,5 +1,5 @@
 main {
-    // flex-grow: 1;
+    
     display: flex;
     flex-wrap: wrap;
     border: 3px solid #b4afaf;
@@ -8,7 +8,9 @@ main {
     padding-left: 20px;
     overflow-y: scroll;
     min-height: 750px;
-    min-width: 450px;
+    min-width: 300px;
+   
+
     .cart {
         display: flex;
         flex-direction: column;
