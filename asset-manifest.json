@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/agronom99/task_ElifTech_School/static/css/main.b68a612f.css",
+    "main.css": "/agronom99/task_ElifTech_School/static/css/main.13467237.css",
     "main.js": "/agronom99/task_ElifTech_School/static/js/main.c90e7e47.js",
     "index.html": "/agronom99/task_ElifTech_School/index.html",
-    "main.b68a612f.css.map": "/agronom99/task_ElifTech_School/static/css/main.b68a612f.css.map",
+    "main.13467237.css.map": "/agronom99/task_ElifTech_School/static/css/main.13467237.css.map",
     "main.c90e7e47.js.map": "/agronom99/task_ElifTech_School/static/js/main.c90e7e47.js.map"
   },
   "entrypoints": [
-    "static/css/main.b68a612f.css",
+    "static/css/main.13467237.css",
     "static/js/main.c90e7e47.js"
   ]
 }
