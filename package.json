@@ -1,8 +1,8 @@
 {
-  "name": "task_ElifTech_School",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:///agronom99github.com/task_ElifTech_School",
+  "homepage": "https://agronom99github.com/task_ElifTech_School",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
