@@ -17,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Shop />} />
         <Route path="/shop" element={<Shop />} />
+        <Route path="task_ElifTech_School" element={<Shop />} />
         <Route path="/shopping_cart" element={<ShopCart />} />
       </Routes>
       
